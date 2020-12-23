@@ -1,0 +1,10 @@
+C:\Users\19031735\source\repos\TCPSender\bin\Debug\TCPSender.exe.config
+C:\Users\19031735\source\repos\TCPSender\bin\Debug\TCPSender.exe
+C:\Users\19031735\source\repos\TCPSender\bin\Debug\TCPSender.pdb
+C:\Users\19031735\source\repos\TCPSender\obj\Debug\RemittanceSender.csprojAssemblyReference.cache
+C:\Users\19031735\source\repos\TCPSender\obj\Debug\TCPSender.frmMain.resources
+C:\Users\19031735\source\repos\TCPSender\obj\Debug\TCPSender.Properties.Resources.resources
+C:\Users\19031735\source\repos\TCPSender\obj\Debug\RemittanceSender.csproj.GenerateResource.cache
+C:\Users\19031735\source\repos\TCPSender\obj\Debug\RemittanceSender.csproj.CoreCompileInputs.cache
+C:\Users\19031735\source\repos\TCPSender\obj\Debug\TCPSender.exe
+C:\Users\19031735\source\repos\TCPSender\obj\Debug\TCPSender.pdb
